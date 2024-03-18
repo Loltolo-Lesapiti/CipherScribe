@@ -1,6 +1,10 @@
+# Ruby Exercises
+
+This repository contains basic Ruby exercises offered by The Odin Project Ruby curriculum. It includes various programs and solutions to practice fundamental concepts of Ruby programming language.
+
 ## CipherScribe
 
-CipherScribe is a Ruby program for encoding and decoding messages using the Caesar cipher technique. This lightweight tool allows you to encrypt and decrypt text with ease, providing a fun way to explore basic cryptography concepts.
+CipherScribe contains a Ruby program for encoding and decoding messages using the Caesar cipher technique. This lightweight tool allows you to decrypt text with ease, providing a fun way to explore basic cryptography concepts.
 
 ### Usage
 
@@ -12,6 +16,21 @@ To use CipherScribe, simply run the program and follow the prompts to encode or 
 2. Navigate to the project directory.
 3. Run the `cipher_scribe.rb` file using Ruby.
 
+## Substrings
+
+Substrings is a Ruby program that counts the occurrences of words from a dictionary within a given input string. It's a helpful tool for analyzing text and identifying frequently used words.
+
+### Usage
+
+To use Substrings, call the `sub_string` function with the input text and dictionary as arguments.
+
+```ruby
+text = "Test string "
+dict = ["est", "st"]
+puts sub_string(text, dict)
+# Output: {"est"=>1, "st"=>2}
+
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -21,3 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project was inspired by [The Odin Project](https://www.theodinproject.com/), an open-source online platform for learning web development.
 
 Copyright (c) 2020 The Odin Project
+```
