@@ -1,0 +1,23 @@
+## CipherScribe
+
+CipherScribe is a Ruby program for encoding and decoding messages using the Caesar cipher technique. This lightweight tool allows you to encrypt and decrypt text with ease, providing a fun way to explore basic cryptography concepts.
+
+### Usage
+
+To use CipherScribe, simply run the program and follow the prompts to encode or decode your message. It's that easy!
+
+### Getting Started
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Run the `cipher_scribe.rb` file using Ruby.
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+This project was inspired by [The Odin Project](https://www.theodinproject.com/), an open-source online platform for learning web development.
+
+Copyright (c) 2020 The Odin Project
