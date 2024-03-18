@@ -20,6 +20,10 @@ To use CipherScribe, simply run the program and follow the prompts to encode or 
 
 Substrings is a Ruby program that counts the occurrences of words from a dictionary within a given input string. It's a helpful tool for analyzing text and identifying frequently used words.
 
+## Stockpicker
+
+The Stock Picker is a simple Ruby program that helps users identify the best days to buy and sell stocks for maximum profit. This tool takes in an array of stock prices, where each element represents the price of a stock on a given day. It then analyzes these prices to determine the best days to buy and sell stocks to maximize profit.
+
 ### Usage
 
 To use Substrings, call the `sub_string` function with the input text and dictionary as arguments.
